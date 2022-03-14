@@ -4,12 +4,12 @@
     margin: 1;
     padding: 1;
     box-sizing: border-box;
-	fonr-family: Calibri ,sans-serif; 
+	font-family: Calibri ,sans-serif; 
   }
 
 
 body {
-  font-family: "Courier New", Courier, "Lucida Sans Typewriter", "Lucida Typewriter", monospace;
+  font-family: "Courier New","Lucida Sans Typewriter", "Lucida Typewriter", monospace;
   background-color: black;
 }
 
@@ -64,11 +64,11 @@ img {
 
 .container {
   position: relative;
-  margin: 0 auto;
+  margin: auto;
 }
 
 .mySlides {
-  margin: 0 auto;
+  margin: auto;
   display: none;
   width:1000px;
 }
